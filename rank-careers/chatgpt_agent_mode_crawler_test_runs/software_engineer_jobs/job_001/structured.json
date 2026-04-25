@@ -1,0 +1,40 @@
+{
+  "job_id": "3092179",
+  "title": "Software Engineer",
+  "location": [
+    "USA, CA, San Francisco"
+  ],
+  "team/org": "Twitch Interactive, Inc. - D48",
+  "responsibilities": [
+    "Maintain and improve the systems which power discovery on Twitch",
+    "Partner with Applied Scientists to improve ML models that match interested",
+    "Collaborate with Product Managers to build, experiment, and roll out new"
+  ],
+  "basic_qualifications": [
+    "Bachelor's degree in Computer Science or a related field (or equivalent",
+    "1+ years of experience delivering high quality software in a production",
+    "Proficient coding skills in modern languages and frameworks",
+    "Familiarity with scalability, concurrency, API design, data modeling, and",
+    "Willingness to try new things and collaborate with a diverse group of people"
+  ],
+  "preferred_qualifications": [
+    "Experience with AWS technologies (such as S3, ECS, Lambda, DynamoDB, Redis,",
+    "Experience writing Go in production systems",
+    "Experience with recommendations, search, or notification systems",
+    "Experience building and maintaining ML systems in production environments",
+    "Familiarity with Twitch and/or streaming on Twitch"
+  ],
+  "degree_required_raw": "Bachelor's degree in Computer Science or a related field (or equivalent",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "DYNAMODB",
+    "ECS",
+    "GO",
+    "LAMBDA",
+    "REDIS",
+    "S3"
+  ],
+  "source_url": "https://amazon.jobs/en/jobs/3092179/software-engineer",
+  "crawl_timestamp": "2026-04-18T13:19:05.546161-07:00"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "job_folder": "job_001",
+    "job_id": "3092179",
+    "title": "Software Engineer",
+    "location": "USA, CA, San Francisco",
+    "team/org": "Twitch Interactive, Inc. - D48",
+    "source_url": "https://amazon.jobs/en/jobs/3092179/software-engineer"
+  },
+  {
+    "job_folder": "job_002",
+    "job_id": "3111761",
+    "title": "Software Engineer I",
+    "location": "USA, CA, Irvine; USA, CA, San Francisco",
+    "team/org": "Twitch Interactive, Inc. - D48",
+    "source_url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i"
+  },
+  {
+    "job_folder": "job_003",
+    "job_id": "3146620",
+    "title": "Software Development Engineer",
+    "location": "USA, WA, Seattle; USA, VA, Arlington; USA, NY, New York; USA, CA, Cupertino",
+    "team/org": "Amazon.com Services LLC",
+    "source_url": "https://amazon.jobs/en/jobs/3146620/software-development-engineer"
+  },
+  {
+    "job_folder": "job_004",
+    "job_id": "3049568",
+    "title": "Software Engineer I",
+    "location": "USA, CA, San Francisco",
+    "team/org": "Twitch Interactive, Inc.",
+    "source_url": "https://amazon.jobs/en/jobs/3049568/software-engineer-i"
+  },
+  {
+    "job_folder": "job_005",
+    "job_id": "3141336",
+    "title": "Software Engineer I",
+    "location": "USA, WA, Seattle; USA, CA, San Francisco",
+    "team/org": "Twitch Interactive, Inc. - D48",
+    "source_url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i"
+  }
+]

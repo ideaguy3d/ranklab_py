@@ -1,0 +1,14 @@
+{
+  "sections_detected": [
+    "Description",
+    "Basic Qualifications",
+    "Preferred Qualifications",
+    "You Will",
+    "Job details"
+  ],
+  "missing_sections": [],
+  "rendered_text_length": 5873,
+  "html_text_length": 5873,
+  "extraction_confidence": 0.9,
+  "notes": "Rendered text captured from browser.open; placeholder screenshots used"
+}

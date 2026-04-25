@@ -1,0 +1,115 @@
+# Software Engineer I
+
+Job ID: 3049568 | Twitch Interactive, Inc.
+
+Apply now
+
+## Description
+
+If you are interested in this position, please apply on Twitch's Career site 
+https://www.twitch.tv/jobs/en/  
+
+About Us:
+
+Twitch is the world’s biggest live streaming service, with global communities 
+built around gaming, entertainment, music, sports, cooking, and more. It is 
+where thousands of communities come together for whatever, every day.  
+We’re about community, inside and out. You’ll find coworkers who are eager to 
+team up, collaborate, and smash (or elegantly solve) problems together. We’re on
+a quest to empower live communities, so if this sounds good to you, see what 
+we’re up to on LinkedIn and X, and discover the projects we’re solving on 
+our Blog. Be sure to explore our Interviewing Guide to learn how to ace our 
+interview process.  
+
+About the Role   
+
+The Twitch Ads team manages a comprehensive advertising ecosystem that balances 
+revenue generation with user and advertiser satisfaction. We deliver promotional
+content through multiple channels while maintaining seamless experiences for 
+viewers, creators and advertisers. Our team is responsible for driving up Ad 
+Supply quality for Twitch and enabling Ad Demand via various domains including 
+Ads Targeting, Brand Safety & Suitability, Measurement, Privacy and Ads Data 
+Platform. These critical technical solutions drive essential business operations
+and enable trustworthy products for advertisers that are measurable and 
+targetable.   
+
+You will become an expert across the breadth of services powering these products
+- architecting, building, and operating them and working closely with the 
+engineers within the Twitch Ads and Amazon Ads organizations. You will be empowered to 
+work across the stack, and will partner with other engineers, product managers, 
+designers, and data analysts to deliver solutions.  
+
+This position is in San Francisco, CA.  
+
+You Will  
+- Work with product managers, technical leads, and other engineers to design, 
+  develop, launch, and operate interactive experiences and products  
+- Build distributed applications at scale  
+- Collaborate with both your team and related teams - fostering shared 
+  understanding of how to solve problems and deliver solutions   
+- Work backwards from customer problems to drive business impact   
+
+Perks  
+- Medical, Dental, Vision & Disability Insurance  
+- 401(k)  
+- Maternity & Parental Leave  
+- Flexible PTO  
+- Amazon Employee Discount 
+
+## Basic Qualifications
+
+- 1+ Years experience developing software in a professional environment  
+- Prior experience building consumer-facing products at scale  
+- Proficient coding skills in modern languages and frameworks  
+- Proven ability with algorithms, data structures, data modeling, and schema 
+  design  
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience 
+
+## Preferred Qualifications
+
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React  
+- Experience building software and services using AWS technologies such as ECS, 
+  DynamoDB, Lambda, SQS, and Step Functions  
+- Familiarity with Twitch, gaming, and/or streaming on Twitch   
+
+Twitch is an equal opportunity employer and does not discriminate on the basis 
+of protected veteran status, disability, or other legally protected status.  
+
+Los Angeles County applicants: Job duties for this position include: work safely 
+and cooperatively with other employees, supervisors, and staff; adhere to 
+standards of excellence despite stressful conditions; communicate effectively 
+and respectfully with employees, supervisors, and staff to ensure exceptional 
+customer service; and follow all federal, state, and local laws and Company 
+policies. Criminal history may have a direct, adverse, and negative relationship
+with some of the material job duties of this position. These include the duties 
+and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work 
+safely and respectfully with others, exhibit trustworthiness and 
+professionalism, and safeguard business operations and the Company’s reputation. 
+Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for 
+employment qualified applicants with arrest and conviction records.  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for 
+employment qualified applicants with arrest and conviction records.  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our 
+customers. If you have a disability and need a workplace accommodation or 
+adjustment during the application and hiring process, including support for the 
+interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. 
+If the country/region you’re applying in isn’t listed, please contact your 
+Recruiting Partner.  
+
+Our compensation reflects the cost of labor across several US geographic 
+markets. The base pay for this position ranges from $99,500/year in our lowest 
+geographic market up to $200,000/year in our highest geographic market. Pay is 
+based on a number of factors including market location and may vary depending on
+job-related knowledge, skills, and experience. Amazon is a total compensation 
+company. Dependent on the position offered, equity, sign-on payments, and other 
+forms of compensation may be provided as part of a total compensation package, 
+in addition to a full range of medical, financial, and/or other benefits. For 
+more information, please visit 
+https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+## Job details
+
+* USA, CA, San Francisco
+* Software Development

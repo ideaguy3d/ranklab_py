@@ -1,0 +1,39 @@
+{
+  "job_id": "3141336",
+  "title": "Software Engineer I",
+  "location": [
+    "USA, WA, Seattle",
+    "USA, CA, San Francisco"
+  ],
+  "team/org": "Twitch Interactive, Inc. - D48",
+  "responsibilities": [
+    "Craft immersive, interactive experiences that keep viewers supporting creators while engaging with the Twitch Community.",
+    "Architect and build robust, scalable applications that can handle millions of",
+    "Collaborate across teams to create cohesive solutions that drive business",
+    "Transform customer feedback into innovative features that enhance the Twitch"
+  ],
+  "basic_qualifications": [
+    "1+ years of non-internship professional software development experience",
+    "0-2 years of professional software development experience",
+    "Excellent verbal and written communication skills; Ability to effectively",
+    "A track record of building consumer-facing products that users love",
+    "Demonstrable experience of modern programming languages and frameworks",
+    "Sharp problem-solving skills with a focus on algorithms, data structures, and",
+    "Bachelor's degree in Computer Science or equivalent real-world experience"
+  ],
+  "preferred_qualifications": [
+    "Bachelor's degree in computer science or equivalent",
+    "Experience with mobile development, either native or hybrid",
+    "Familiarity with AWS infrastructure",
+    "Experience with email / notifications technologies",
+    "Experience writing Go in production systems"
+  ],
+  "degree_required_raw": "Bachelor's degree in Computer Science or equivalent real-world experience",
+  "years_experience": 2,
+  "skills": [
+    "AWS",
+    "GO"
+  ],
+  "source_url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i",
+  "crawl_timestamp": "2026-04-18T13:19:05.554373-07:00"
+}

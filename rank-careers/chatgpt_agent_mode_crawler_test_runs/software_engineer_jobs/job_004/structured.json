@@ -1,0 +1,36 @@
+{
+  "job_id": "3049568",
+  "title": "Software Engineer I",
+  "location": [
+    "USA, CA, San Francisco"
+  ],
+  "team/org": "Twitch Interactive, Inc.",
+  "responsibilities": [
+    "architecting, building, and operating them and working closely with the",
+    "Work with product managers, technical leads, and other engineers to design,",
+    "Build distributed applications at scale",
+    "Collaborate with both your team and related teams - fostering shared",
+    "Work backwards from customer problems to drive business impact"
+  ],
+  "basic_qualifications": [
+    "1+ Years experience developing software in a professional environment",
+    "Prior experience building consumer-facing products at scale",
+    "Proficient coding skills in modern languages and frameworks",
+    "Proven ability with algorithms, data structures, data modeling, and schema",
+    "Minimum of Bachelor\u2019s degree in Computer Science or equivalent experience"
+  ],
+  "preferred_qualifications": [
+    "Experience with languages/frameworks we use at Twitch: Golang, Typescript/React",
+    "Experience building software and services using AWS technologies such as ECS,",
+    "Familiarity with Twitch, gaming, and/or streaming on Twitch"
+  ],
+  "degree_required_raw": "Minimum of Bachelor\u2019s degree in Computer Science or equivalent experience",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "ECS",
+    "GOLANG"
+  ],
+  "source_url": "https://amazon.jobs/en/jobs/3049568/software-engineer-i",
+  "crawl_timestamp": "2026-04-18T13:19:05.550358-07:00"
+}
