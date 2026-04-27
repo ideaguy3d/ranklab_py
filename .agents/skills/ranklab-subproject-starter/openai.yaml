@@ -1,0 +1,4 @@
+interface:
+  display_name: "RankLab Starter"
+  short_description: "Bootstrap and maintain standalone RankLab subprojects"
+  default_prompt: "Set up or refine a standalone RankLab subproject using the standard FastAPI + ChatKit + agents template."
